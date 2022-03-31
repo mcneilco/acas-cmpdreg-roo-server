@@ -39,7 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.]]>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<roo.version>1.3.1.RELEASE</roo.version>
 		<slf4j.version>1.7.5</slf4j.version>
-		<spring.version>3.2.11.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<gvnix.version>1.4.1.RELEASE</gvnix.version>
 		<querydsl.version>3.4.3</querydsl.version>
 		<spring-security.version>3.1.0.RELEASE</spring-security.version>
